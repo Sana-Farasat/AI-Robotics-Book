@@ -1,0 +1,38 @@
+{
+  "link.item.label.Introduction to Physical AI & Embodied Intelligence": {
+    "message": "فزکل AI اور ایمبوڈیڈ انٹیلی جنس کا تعارف",
+    "description": "Link in sidebar with label: Introduction to Physical AI & Embodied Intelligence"
+  },
+  "link.item.label.The Robotic Nervous System – ROS 2 Deep Dive": {
+    "message": "روبوٹک نروس سسٹم - ROS 2 گہرائی میں",
+    "description": "Link in sidebar with label: The Robotic Nervous System – ROS 2 Deep Dive"
+  },
+  "link.item.label.Digital Twins – Simulation with Gazebo, Isaac Sim & Unity": {
+    "message": "ڈیجیٹل ٹوئنز - گزیبو، ایزیک سیم اور یونیٹی کے ساتھ سیمولیشن",
+    "description": "Link in sidebar with label: Digital Twins – Simulation with Gazebo, Isaac Sim & Unity"
+  },
+  "link.item.label.The AI-Robot Brain – NVIDIA Isaac Platform & Synthetic Data": {
+    "message": "AI-روبوٹ مینڈھا - NVIDIA ایزیک پلیٹ فارم اور سنٹھیٹک ڈیٹا",
+    "description": "Link in sidebar with label: The AI-Robot Brain – NVIDIA Isaac Platform & Synthetic Data"
+  },
+  "link.item.label.Vision-Language-Action (VLA) Models – From Voice to Physical Action": {
+    "message": "وژن-لینگویج-ایکشن (VLA) ماڈلز - آواز سے فزکل ایکشن تک",
+    "description": "Link in sidebar with label: Vision-Language-Action (VLA) Models – From Voice to Physical Action"
+  },
+  "link.item.label.Building & Controlling Real Humanoid Robots (Unitree G1, Hiwonder, Jetson Edge Kits)": {
+    "message": "حقیقی ہیومنوڈ روبوٹس کی تعمیر اور کنٹرول (یونی ٹری G1، ہائی ونڈر، جیٹسن ایج کٹس)",
+    "description": "Link in sidebar with label: Building & Controlling Real Humanoid Robots (Unitree G1, Hiwonder, Jetson Edge Kits)"
+  },
+  "link.item.label.Capstone Project – Autonomous Conversational Humanoid + Future & Ethics": {
+    "message": "کیپ اسٹون پروجیکٹ - خودمختار گفتگو کرنے والے ہیومنوڈ + مستقبل اور اخلاق",
+    "description": "Link in sidebar with label: Capstone Project – Autonomous Conversational Humanoid + Future & Ethics"
+  },
+  "link.item.label.Hardware Guide": {
+    "message": "ہارڈ ویئر گائیڈ",
+    "description": "Link in sidebar with label: Hardware Guide"
+  },
+  "link.item.label.RAG Chatbot": {
+    "message": "RAG چیٹ بوٹ",
+    "description": "Link in sidebar with label: RAG Chatbot"
+  }
+}

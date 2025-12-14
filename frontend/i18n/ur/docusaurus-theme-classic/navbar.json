@@ -1,0 +1,18 @@
+{
+  "item.label.Chapters": {
+    "message": "ابواب",
+    "description": "Navbar item with label Chapters"
+  },
+  "item.label.Hardware Guide": {
+    "message": "ہارڈویئر گائیڈ",
+    "description": "Navbar item with label Hardware Guide"
+  },
+  "item.label.RAG Chatbot": {
+    "message": "RAG چیٹ بوٹ",
+    "description": "Navbar item with label RAG Chatbot"
+  },
+  "item.label.GitHub": {
+    "message": "گٹ ہب",
+    "description": "Navbar item with label GitHub"
+  }
+}

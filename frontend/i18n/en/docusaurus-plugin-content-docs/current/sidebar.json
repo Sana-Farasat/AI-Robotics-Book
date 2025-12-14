@@ -1,0 +1,38 @@
+{
+  "link.item.label.Introduction to Physical AI & Embodied Intelligence": {
+    "message": "Introduction to Physical AI & Embodied Intelligence",
+    "description": "Link in sidebar with label: Introduction to Physical AI & Embodied Intelligence"
+  },
+  "link.item.label.The Robotic Nervous System – ROS 2 Deep Dive": {
+    "message": "The Robotic Nervous System – ROS 2 Deep Dive",
+    "description": "Link in sidebar with label: The Robotic Nervous System – ROS 2 Deep Dive"
+  },
+  "link.item.label.Digital Twins – Simulation with Gazebo, Isaac Sim & Unity": {
+    "message": "Digital Twins – Simulation with Gazebo, Isaac Sim & Unity",
+    "description": "Link in sidebar with label: Digital Twins – Simulation with Gazebo, Isaac Sim & Unity"
+  },
+  "link.item.label.The AI-Robot Brain – NVIDIA Isaac Platform & Synthetic Data": {
+    "message": "The AI-Robot Brain – NVIDIA Isaac Platform & Synthetic Data",
+    "description": "Link in sidebar with label: The AI-Robot Brain – NVIDIA Isaac Platform & Synthetic Data"
+  },
+  "link.item.label.Vision-Language-Action (VLA) Models – From Voice to Physical Action": {
+    "message": "Vision-Language-Action (VLA) Models – From Voice to Physical Action",
+    "description": "Link in sidebar with label: Vision-Language-Action (VLA) Models – From Voice to Physical Action"
+  },
+  "link.item.label.Building & Controlling Real Humanoid Robots (Unitree G1, Hiwonder, Jetson Edge Kits)": {
+    "message": "Building & Controlling Real Humanoid Robots (Unitree G1, Hiwonder, Jetson Edge Kits)",
+    "description": "Link in sidebar with label: Building & Controlling Real Humanoid Robots (Unitree G1, Hiwonder, Jetson Edge Kits)"
+  },
+  "link.item.label.Capstone Project – Autonomous Conversational Humanoid + Future & Ethics": {
+    "message": "Capstone Project – Autonomous Conversational Humanoid + Future & Ethics",
+    "description": "Link in sidebar with label: Capstone Project – Autonomous Conversational Humanoid + Future & Ethics"
+  },
+  "link.item.label.Hardware Guide": {
+    "message": "Hardware Guide",
+    "description": "Link in sidebar with label: Hardware Guide"
+  },
+  "link.item.label.RAG Chatbot": {
+    "message": "RAG Chatbot",
+    "description": "Link in sidebar with label: RAG Chatbot"
+  }
+}

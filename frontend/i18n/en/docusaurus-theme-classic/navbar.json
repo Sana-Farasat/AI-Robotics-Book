@@ -1,0 +1,18 @@
+{
+  "item.label.Chapters": {
+    "message": "Chapters",
+    "description": "Navbar item with label Chapters"
+  },
+  "item.label.Hardware Guide": {
+    "message": "Hardware Guide",
+    "description": "Navbar item with label Hardware Guide"
+  },
+  "item.label.RAG Chatbot": {
+    "message": "RAG Chatbot",
+    "description": "Navbar item with label RAG Chatbot"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
